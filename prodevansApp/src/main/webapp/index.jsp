@@ -43,7 +43,7 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">PRODEVANS</a>
+                <a class="navbar-brand page-scroll" href="#page-top"><img src="img/finalLogo.png" alt="Prodevans"></a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -57,6 +57,9 @@
                     </li>
                     <li>
                         <a class="page-scroll" href="#services">ABOUT US</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#contact">Contact</a>
                     </li>
                     
                 </ul>
@@ -82,8 +85,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading" align="left">Align people, processes with</br> technology to enable  </br> Application delivery while increasing </br>business agility</h2>
-                    <h3 class="section-subheading text-muted" align="left">Shared responsibilities coupled with an agile software development process </br> results in rapid deployment of your applications and supporting </br> infrastructure in the cloud. Business deployed in cloud achieves faster </br> product improvements, releases and delivers better customer experience </br> Prodevans helps you deliver a great customer experience by
+                    <h2 class="section-heading" align="justify">Align people, processes with</br> technology to enable  </br> Application delivery while increasing </br>business agility</h2>
+                    <h3 class="section-subheading text-muted" align="justify">Shared responsibilities coupled with an agile software development process </br> results in rapid deployment of your applications and supporting </br> infrastructure in the cloud. Business deployed in cloud achieves faster </br> product improvements, releases and delivers better customer experience </br> Prodevans helps you deliver a great customer experience by
 deploying the right Cloud-based tools and resources.</h3>
                 </div>
             </div>
@@ -97,7 +100,26 @@ deploying the right Cloud-based tools and resources.</h3>
     <!-- About Section -->
     
 
-    <!-- Clients Aside -->
+    <!-- Contact -->
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">Let's Get In Touch!</h2>
+                    <hr class="primary">
+                    <p>Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!</p>
+                </div>
+                <div class="col-lg-4 col-lg-offset-2 text-center">
+                    <i class="fa fa-phone fa-3x sr-contact"></i>
+                    <p>+9180 64503365</p>
+                </div>
+                <div class="col-lg-4 text-center">
+                    <i class="fa fa-envelope-o fa-3x sr-contact"></i>
+                    <p><a href="mailto:ask@prodevans.com">ask@prodevans.com</a></p>
+                </div>
+            </div>
+        </div>
+    </section>
     
 
     <footer>
